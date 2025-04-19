@@ -1,0 +1,18 @@
+# Visual Studio & Rider
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Build output
+bin/
+obj/
+
+# Лог и данные
+app.log
+tasks.json
+*.bak.json
+
+# OS‑specific
+Thumbs.db
+.DS_Store
